@@ -1,3 +1,3 @@
 # SingletonWithIOC
 
-Trying to make a Singleton via IOC
+Trying to make a Singleton via IoC
